@@ -1,3 +1,8 @@
+@font-face {
+  font-family: Roboto;
+  src: url('fonts/Roboto_Regular.ttf');
+}
+
 .navbar ul{
   list-style-type: none;
   background-color: #141414;
