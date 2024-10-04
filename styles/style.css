@@ -34,6 +34,10 @@ nav {
   text-align: center;
 }
 
+.navbar li:hover {
+  background-color: darkslategray;
+}
+
 body {
   background-color: #191919;
   color: white;
@@ -52,10 +56,6 @@ footer {
   text-align: center;
   padding: 25px;
   overflow: hidden;
-}
-
-.navbar li:hover {
-  background-color: darkslategray;
 }
 
 footer img {
