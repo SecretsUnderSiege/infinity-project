@@ -1,8 +1,6 @@
 @font-face {
   font-family: 'Roboto';
-  src: url('/infinity-project/fonts/roboto.ttf');
-  font-weight: normal;
-  font-style: normal;
+  src: url('../fonts/roboto.ttf');
 }
 
 @font-face {
@@ -34,7 +32,6 @@ nav {
   top: 0;
   width: 100%;
   text-align: center;
-  
 }
 
 body {
@@ -45,26 +42,26 @@ body {
 }
 
 main{
-margin-left: 10px;
-margin-right: 10px;
-text-align: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: center;
 }
 
 footer {
-background-color: #141414;
-text-align: center;
-padding: 25px;
-overflow: hidden;
+  background-color: #141414;
+  text-align: center;
+  padding: 25px;
+  overflow: hidden;
 }
 
 .navbar li:hover {
-background-color: darkslategray;
+  background-color: darkslategray;
 }
 
 footer img {
-float: left;
+  float: left;
 }
 
 footer p {
-float: right;
+  float: right;
 }
