@@ -25,6 +25,7 @@ nav {
 
 .navbar li {
   padding: 0px;
+  display: inline-block;
 }
 
 .navbar a:hover {
@@ -36,6 +37,10 @@ nav {
   text-decoration: none;
   display: inline-block;
   padding: 20px;
+}
+
+.navbar img {
+  display: inline-block;
 }
 
 body {
