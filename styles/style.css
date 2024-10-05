@@ -21,6 +21,10 @@
   padding: 20px;
 }
 
+.navbar li:hover {
+  background-color: darkslategray;
+}
+
 .navbar a {
   color: white;
   text-decoration: none;
@@ -32,10 +36,6 @@ nav {
   top: 0;
   width: 100%;
   text-align: center;
-}
-
-.navbar li:hover {
-  background-color: darkslategray;
 }
 
 body {
