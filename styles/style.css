@@ -41,6 +41,8 @@ nav {
 
 .navbar img {
   display: inline-block;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 body {
